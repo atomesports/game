@@ -1,0 +1,45 @@
+body{
+  background-color: #fed39f
+}
+h1{
+  color:blue;
+  font-size:100px;
+  font-style: oblique;
+}
+.pubg{
+  width:550px;
+  height:300px;
+}
+.fornite{
+  width:550px;
+  height:300px;
+}
+.freefire{
+  width:550px;
+  height: 300px;
+}
+.cod{
+  width: 550px;
+  height:300px;
+}
+.csgo{
+  width:550px;
+  height: 300px;
+}
+.coc{
+  width: 550px;
+  height:300px;
+}
+h3{
+  color:#ce0f3d;
+  font-style: italic;
+  font-size: 40px;
+}
+hr{
+    border-style: none;
+  border-top-style: dotted;
+  border-width: 15px;
+  width: 10%;
+  border-color: grey;
+  }
+}
