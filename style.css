@@ -42,4 +42,8 @@ hr{
   width: 10%;
   border-color: grey;
   }
+
+.poster{
+  width:600px;
+  heigth:800px;
 }
